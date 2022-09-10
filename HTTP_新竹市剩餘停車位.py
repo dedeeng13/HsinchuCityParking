@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-__author__ = "DENG"
+__author__ = "DDENG"
 
 import sys
 import time
